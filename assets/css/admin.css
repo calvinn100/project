@@ -1,0 +1,50 @@
+.glyphicon-pencil {
+	color: #f55 !important;
+	cursor: pointer;
+}
+.glyphicon-trash {
+	color: #3D529E !important;
+	cursor: pointer;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.glyphicon-ok {
+	color: #7FFF7F !important;
+	cursor: pointer;
+}
+
+.custommodal {
+	border-radius: 0px !important;
+}
+
+.btn-custom {
+	border-radius: 0px;
+	margin-top: 15px;
+}
+
+.custom-field {
+	border-radius: 0px;
+	outline: none !important;
+}
+
+.interviewquestionadmin {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 100%;
+	font-size: 13px;
+	font-weight: 500;
+}
+.qaspan {
+	color: rgba(0, 0, 0, 0.5);
+	font-size: 11px;
+	padding-bottom: 5px;
+}
+
+.fa-pencil , .fa-trash {
+	color: rgba(0, 0, 0, 0.5);
+}
+
+.fa-pencil:hover , .fa-trash:hover {
+	cursor: pointer;
+}

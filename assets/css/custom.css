@@ -1,0 +1,90 @@
+/***** Custom ********/
+
+.checkboxmaincontainer {
+  padding: 5px 0 !important;
+}
+
+.checkboxheadingdiv{
+  padding: 5px 0 !important ;
+}
+
+.checkboxcontainer{
+  padding: 5px 0 !important
+}
+
+.checkboxcontainer > input {
+  float:left;
+}
+
+.checkboxcontainer > div {
+  float:left;margin-top:1.5px;padding-left: 5px;
+}
+
+.formcontainer {
+  padding: 15px 5px;
+}
+
+.nopadding {
+  padding: 0 !important
+}
+.credintalsfieldsdiv {
+  padding: 5px 0px !important;
+}
+.credintalsfields {
+  border-radius: 0 !important;
+  outline: none !important;
+  background-color: transparent;
+  color: #fff !important;
+}
+
+
+.credintalsfields::-webkit-input-placeholder {
+  color: #fff !important;
+  text-shadow: none !important;
+}
+
+.credintalsfields:-moz-placeholder { /* Firefox 18- */
+  color: #fff !important;
+  text-shadow: none !important;
+}
+
+.credintalsfields::-moz-placeholder {  /* Firefox 19+ */
+  color: #fff !important;
+  text-shadow: none !important;
+}
+
+.credintalsfields:-ms-input-placeholder {
+  color: #fff !important;
+  text-shadow: none !important;
+}
+
+.registeratag{
+  text-decoration: none !important;
+  padding: 15px;
+}
+.registerdivs{
+  color: #fff !important;
+  padding:10px;border:1px solid #fff;
+  transition: all .35s ease-in-out;
+}
+
+.registerdivs:hover{
+  background-color: #fff;
+  color: #009BBB !important;
+}
+
+
+.viewusertilecontainer {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.viewusertile{
+    height: 150px;
+    width:150px;
+    background-color: #f7f7f7;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+img{height:100%;width:100%; object-fit: cover;}
